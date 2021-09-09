@@ -1,4 +1,4 @@
-##programacion septiembre 02
+#programacion septiembre 02
 
 Sub ejemplo()
  MsgBox "hola andres"
