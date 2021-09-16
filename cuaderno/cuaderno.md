@@ -6,6 +6,7 @@
  MsgBox "chao andres"
 
 End Sub
+[![Captura-de-pantalla-8.png](https://i.postimg.cc/fLp1Qj4V/Captura-de-pantalla-8.png)](https://postimg.cc/bD0mQnwP)
 
 *** segunda programacion***<br>
 visual basic<br>
