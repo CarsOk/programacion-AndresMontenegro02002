@@ -4,9 +4,8 @@
  MsgBox "hola andres"<br>
  MsgBox "buenas tardes "<br>
  MsgBox "chao andres"
-
-End Sub
-[![Captura-de-pantalla-8.png](https://i.postimg.cc/fLp1Qj4V/Captura-de-pantalla-8.png)](https://postimg.cc/bD0mQnwP)
+End Sub<br>
+[![Captura-de-pantalla-8.png](https://i.postimg.cc/fLp1Qj4V/Captura-de-pantalla-8.png)](https://postimg.cc/bD0mQnwP)<br>
 
 *** segunda programacion***<br>
 visual basic<br>
