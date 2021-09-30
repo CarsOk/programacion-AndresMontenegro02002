@@ -1,0 +1,7 @@
+crear funcion
+
+function misnotas(a, b, c, d, e)
+ dim mis as double
+ mis = (a + b + c + d + e)/5
+ misnotas = mis
+end function

@@ -26,11 +26,3 @@ Sub inicio()<br>
  End If<br>
 
 End Sub
-
-***como crear una funcion***
-
-Function misnotas(a, b, c, d, e)
- Dim mis As Double
- mis = (a + b + c + d + e) / 5
- misnotas = mis
-End Function
