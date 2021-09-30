@@ -5,3 +5,4 @@ function misnotas(a, b, c, d, e)
  mis = (a + b + c + d + e)/5
  misnotas = mis
 end function
+[![Captura-de-pantalla-15.png](https://i.postimg.cc/4d1jBxS7/Captura-de-pantalla-15.png)](https://postimg.cc/sQvn2sys)
